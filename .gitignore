@@ -1,0 +1,13 @@
+# env files
+.env
+
+# node modules
+/node_modules
+
+# uploads
+uploads/app/*
+uploads/css/*
+uploads/js/*
+
+# sqlite database
+data/*
